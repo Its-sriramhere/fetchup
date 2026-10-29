@@ -2,6 +2,14 @@
 
 A responsive five-page company website built from the supplied FetchUp Scroll Edition design. Next.js App Router, TypeScript, CSS, Motion, locally served Space Grotesk/Manrope, and approved local Figma artwork.
 
+## Production
+
+- Website: https://fetchup-eta.vercel.app
+- Source: https://github.com/Its-sriramhere/fetchup
+- Vercel project: `fetchup`, connected to the repository's `main` branch.
+
+The requested `fetchup.vercel.app` alias was unavailable because it is already in use. `SITE_URL` is configured for the assigned production address. Enquiry email delivery still requires the owner's email and Redis configuration described below.
+
 ## Run locally
 
 Requires Node.js 20.9 or newer (Node 24 LTS recommended).

@@ -43,4 +43,6 @@ The mobile run recorded LCP approximately 0.8s, CLS 0, and total blocking time a
 - Check the deployed site on representative physical iOS/Android devices and Safari/Firefox.
 - Measure deployed performance and collect field Web Vitals once traffic is available.
 
-The application is running locally; no public deployment has been created.
+## Production deployment
+
+Deployed to Vercel at https://fetchup-eta.vercel.app and connected to https://github.com/Its-sriramhere/fetchup (`main`). The requested `fetchup.vercel.app` alias was rejected by Vercel as already in use. `SITE_URL` is configured for the assigned production URL. Real email delivery remains pending the owner's email and Redis settings.
