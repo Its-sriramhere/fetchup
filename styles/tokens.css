@@ -1,0 +1,20 @@
+:root {
+  --navy: #080f25;
+  --violet: #7020f5;
+  --deep-purple: #3f078f;
+  --lavender: #eee7fc;
+  --paper: #f7f7fb;
+  --ink: #18182c;
+  --muted: #66667a;
+  --soft: #c0b7d4;
+  --mint: #acebd7;
+  --white: #fff;
+  --font-display: var(--loaded-display), "Space Grotesk Variable", sans-serif;
+  --font-body: var(--loaded-body), "Manrope Variable", sans-serif;
+  --radius-card: 18px;
+  --radius-control: 8px;
+  /* Layer scale: content auto; decorative journey 2; header 3; skip link 5; dialog top layer. */
+  --layer-journey: 2;
+  --layer-header: 3;
+  --layer-skip: 5;
+}
